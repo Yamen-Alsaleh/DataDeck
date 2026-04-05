@@ -143,6 +143,6 @@ Battle error, aborting tournament: Invalid Creature 'Flameling' for this aggress
 
 | Login | School |
 |---|---|
-| your_login | 42 |
+| yalsaleh | 42 |
 
 
